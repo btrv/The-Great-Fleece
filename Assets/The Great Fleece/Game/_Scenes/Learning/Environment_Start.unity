@@ -11404,7 +11404,7 @@ ReflectionProbe:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664021111}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_Type: 0
   m_Mode: 0
@@ -11412,8 +11412,8 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 38.305202, y: 10, z: 76.70708}
-  m_BoxOffset: {x: 13.88257, y: 0, z: 28.113487}
+  m_BoxSize: {x: 38.305202, y: 3.4998798, z: 76.70708}
+  m_BoxOffset: {x: 13.88257, y: -1.7499399, z: 28.113487}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
@@ -11438,7 +11438,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1664021111}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.73, y: 0.99, z: -109.55}
+  m_LocalPosition: {x: -13.73, y: -1.23, z: -109.55}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
